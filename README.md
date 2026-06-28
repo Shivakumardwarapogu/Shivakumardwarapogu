@@ -77,3 +77,18 @@ Developed a predictive regression model to understand relationships between busi
 
 🔗 **Repository:** [Linear Regression Analysis](https://github.com/Shivakumardwarapogu/Linear_regression_Assignment)
 
+
+## 📚 Currently Learning
+
+* Advanced SQL for Data Analytics
+* Business Analysis Techniques & Requirement Gathering
+* Power BI Dashboard Design & DAX
+* Python for Data Analysis and Automation
+* Data Storytelling and Visualization Best Practices
+* Freelancing and Portfolio Development
+
+## 📫 Connect With Me
+
+* LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/shivakumardwarapogu/)
+* Location: Hyderabad, India
+* Open to Remote Business Analyst and Data Analyst Opportunities
