@@ -89,6 +89,6 @@ Developed a predictive regression model to understand relationships between busi
 
 ## 📫 Connect With Me
 
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/shivakumardwarapogu/)
+* LinkedIn: [Profile](https://www.linkedin.com/in/shivakumardwarapogu/)
 * Location: Hyderabad, India
 * Open to Remote Business Analyst and Data Analyst Opportunities
