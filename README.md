@@ -26,3 +26,54 @@ I am an MBA graduate with a passion for transforming data into meaningful busine
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 📊 Finance & Risk Analytics Dashboard
+
+Interactive Power BI dashboard developed to analyze financial performance and business risk metrics. The dashboard provides dynamic KPI tracking, revenue analysis, profit insights, and business risk visualization to support data-driven decision-making.
+
+**Skills:** Power BI • Data Visualization • Business Analytics • KPI Reporting
+
+🔗 **Repository:** [Finance & Risk Analytics Dashboard](https://github.com/Shivakumardwarapogu/Finance_and_Risk_Analytics)
+
+---
+
+### 🎯 Lead Score Prediction
+
+Built a machine learning solution to identify high-potential leads by analyzing customer behavior and demographic data. The project demonstrates data preprocessing, feature engineering, model building, and business-focused recommendations.
+
+**Skills:** Python • Machine Learning • Data Cleaning • Feature Engineering
+
+🔗 **Repository:** [Lead Score Prediction](https://github.com/Shivakumardwarapogu/Lead_score_case_study)
+
+---
+
+### 💳 Credit Risk Exploratory Data Analysis
+
+Performed exploratory data analysis on credit-related datasets to identify customer trends, risk patterns, and important variables affecting lending decisions.
+
+**Skills:** Python • Pandas • Data Visualization • Exploratory Data Analysis
+
+🔗 **Repository:** [Credit Risk Exploratory Data Analysis](https://github.com/Shivakumardwarapogu/Credit_EDA_Assignment)
+
+---
+
+### 🎬 RSVP Movies SQL Case Study
+
+Solved real-world business questions using SQL by analyzing a movie database. Demonstrates advanced querying techniques including joins, aggregations, window functions, and business reporting.
+
+**Skills:** SQL • MySQL • Database Querying • Data Analysis
+
+🔗 **Repository:** [RSVP Movies SQL Case Study](https://github.com/Shivakumardwarapogu/RSVP_Movies_CaseStudy)
+
+---
+
+### 📈 Linear Regression Analysis
+
+Developed a predictive regression model to understand relationships between business variables and generate actionable insights using statistical techniques.
+
+**Skills:** Python • Linear Regression • Statistics • Predictive Analytics
+
+🔗 **Repository:** [Linear Regression Analysis](https://github.com/Shivakumardwarapogu/Linear_regression_Assignment)
+
