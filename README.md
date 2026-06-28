@@ -92,3 +92,13 @@ Developed a predictive regression model to understand relationships between busi
 * LinkedIn: [Profile](https://www.linkedin.com/in/shivakumardwarapogu/)
 * Location: Hyderabad, India
 * Open to Remote Business Analyst and Data Analyst Opportunities
+
+
+## 📊 GitHub Statistics
+
+![Shiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivakumardwarapogu\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumardwarapogu\&layout=compact\&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivakumardwarapogu\&theme=default)
+
